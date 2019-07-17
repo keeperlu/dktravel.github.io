@@ -3,8 +3,7 @@
 ## 1. 所到的国家
 - [x] 西班牙王国 
 
-![Spain]（http://img.sj33.cn/uploads/allimg/201404/7-14041512521UJ.png）
-![cmd-markdown-logo](http://www.all-flags-world.com/country-flag/Spain/flag-spain-XL.jpg)
+![Spain]（http://www.all-flags-world.com/country-flag/Spain/flag-spain-s.jpg）
 
 - [x] 法兰西共和国
 - [x] 安道尔公国
