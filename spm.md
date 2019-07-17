@@ -16,7 +16,8 @@
 ### [x] 葡萄牙共和国
 ### [x] 阿拉伯联合酋长国
 
-## 2. 行程
+## 2. [请继续点击浏览旅行行程] (https://keeperlu.github.io/iternary.html)
+
 
 sequenceDiagram
     participant Alice
