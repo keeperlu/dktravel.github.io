@@ -12,5 +12,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://keeperlu.github.io/index.html) and ![Image](src)
+[Link](https://keeperlu.github.io/index.md) and ![Image](src)
 ```
