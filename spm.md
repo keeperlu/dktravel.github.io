@@ -18,9 +18,9 @@
 ### [x] 葡萄牙共和国
 ![portugal_flag](http://www.all-flags-world.com/country-flag/Portugal/flag-portugal-XL.jpg)
 ### [x] 阿拉伯联合酋长国
-![UAE_flag] (http://www.all-flags-world.com/country/united-arab-emirates-flag-icon.png)
+![UAE_flag](http://www.all-flags-world.com/country/united-arab-emirates-flag-icon.png)
 
-## 2. [请继续点击浏览旅行行程] (https://keeperlu.github.io/itinerary.html)
+## 2. [请继续点击浏览旅行行程](https://keeperlu.github.io/itinerary.html)
 
 
 ## 3
