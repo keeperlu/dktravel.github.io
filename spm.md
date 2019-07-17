@@ -3,7 +3,7 @@
 
 ## 1. 所到的国家
 
-### - [x] 西班牙王国 
+- [x] ### 西班牙王国 
 
 ![spain_flag](http://www.all-flags-world.com/country-flag/Spain/flag-spain-XL.jpg)
 
