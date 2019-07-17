@@ -3,20 +3,17 @@
 
 ## 1. 所到的国家
 
-- [x] 西班牙王国 
+# - [x] 西班牙王国 
 
 ![Spain]（http://www.all-flags-world.com/country-flag/Spain/flag-spain-s.jpg）
 
 - [x] 法兰西共和国
-
-![France]（http://www.all-flags-world.com/country-flag/France/flag-france-s.jpg）
-
 - [x] 安道尔公国
 - [x] 摩洛哥王国
 - [x] 葡萄牙共和国
 - [x] 阿拉伯联合酋长国
 
-## 2. 
+## 2. 行程
 ## 3
 ## 4.
 ## 5.
