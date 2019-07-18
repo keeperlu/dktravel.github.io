@@ -28,6 +28,6 @@ A380的内部和外部装修都可以根据customer要求来设计，尤其是�
 至此，90分钟的路程结束了。
 ```
 
-[airbus1](https://img.supmil.net/data/attachment/forum/201712/28/020507sqqcqa99qwaq3qvc.jpg)
+![airbus1](https://img.supmil.net/data/attachment/forum/201712/28/020507sqqcqa99qwaq3qvc.jpg)
 
-[airbus2](https://img.supmil.net/data/attachment/forum/201712/28/022835b4e41446l1xgx4u4.jpg)
+![airbus2](https://img.supmil.net/data/attachment/forum/201712/28/022835b4e41446l1xgx4u4.jpg)
