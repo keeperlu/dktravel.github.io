@@ -6,8 +6,9 @@
 图卢兹位于拉泰拉勒——加龙运河和南运河的汇合处。建于古代，是沃尔卡埃泰克托萨热斯的要塞。在罗马时期城市得到发展，名为托洛萨。后为阿基坦的加洛林王朝的主要城镇。778年后成为图卢兹封建伯爵领地首府
 
 ## Let's visit airbus
-
 Airbus空客的组装工厂
+
+![airbus0](http://www.manatour.fr/sites/manatour/files/logolva3d.jpg)
 
 >非欧盟游客参观空客的Tour需要至少提前2个工作日预约
 > 预约地址在这里 www.manatour.fr/en
@@ -29,6 +30,6 @@ A380的内部和外部装修都可以根据customer要求来设计，尤其是�
 至此，90分钟的路程结束了。
 ```
 
-![airbus1](https://img.supmil.net/data/attachment/forum/201712/28/020507sqqcqa99qwaq3qvc.jpg)
+![airbus1](https://blog.privatefly.com/wp-content/uploads/2015/10/Lets-visit-Airbus-Toulouse.jpg)
 
 ![airbus2](https://img.supmil.net/data/attachment/forum/201712/28/022835b4e41446l1xgx4u4.jpg)
