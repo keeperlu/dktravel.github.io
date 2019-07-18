@@ -54,41 +54,21 @@ Tripadvisor排名第1793（共10,489个）
 马德里最有名的马德里乱炖Cocido Madrileño就在这家，一家地道的百年老店，门外甚至有铜制地牌在地上，店门口悬挂了无数奖项和美食荐评的LOGO
 每天午餐13:30-18:00；晚餐20:30-23:00；7月1日至9月7日周六晚上和周日全天不营业，早去都不开门，也不能提前入坐，比较传统；并且只接受现金，不能刷卡，有中文菜单
  
-波拉之家
- 
-波拉之家
- 
-波拉之家
- 
-波拉之家
 马德里乱炖，将鹰嘴豆（Garbanzos）和猪肉、鸡肉、火腿、血肠、土豆、洋葱、卷心菜等放在一个陶罐里炖煮而成的，是马德里的名菜，虽然我觉得味道一般
 吃法：现将炖出的汤水配上细面条作为前菜，然后将罐中剩余的食物倒入盘中作为主菜，菜量比较大，建议多人分享
  
-波拉之家
-sangria
- 
-波拉之家
-马德里煮米饭
- 
-波拉之家
-牛肚
- 
-波拉之家
 三个大人一个小孩，共消费77欧元，百年老餐厅这个价格还是不错的~
 推荐菜：马德里乱炖
-5. 格拉纳达 | Gran café Bib-Rambla
+
+### 5. 格拉纳达 | Gran café Bib-Rambla
  
-Gran Cafe百年油条店
- 
-Gran Cafe百年油条店
- 
-Gran Cafe百年油条店
- 
+
 Gran Cafe百年油条店
 Tripadvisor排名第216（共1501个）
 格拉纳达最古老的咖啡馆，1907年开业，至今已有百年，西班牙油条和巧克力都不错，不过我还点了Ham做下午茶，餐厅位于Bib-Rambla广场上，所以有室内位和露天位可选
 个人觉得这里的西班牙油条比马德里的CHOCOLATERIA SAN GINES更酥脆好吃
-6. 格拉纳达 | Ruta del Azafrán
+
+### 6. 格拉纳达 | Ruta del Azafrán
  
 Restaurante Ruta del Azafran
  
@@ -116,7 +96,8 @@ sangria
 Restaurante Ruta del Azafran
 两人一共57欧，价格中上，味道超赞，特别推荐格拉纳达的这家餐厅，还有一道蘑菇炖饭看起来非常好吃，可惜两人一份海鲜饭都吃不完，只能放弃了。。
 推荐菜：海鲜饭、蘑菇炖饭、伊比利亚火腿
-7. 格拉纳达 | Carmela Restaurante
+
+### 7. 格拉纳达 | Carmela Restaurante
  
 Carmela Restaurante
  
@@ -139,7 +120,8 @@ sangria
 Carmela Restaurante
 两个人一共39.9欧，绝对经济实惠款
 推荐菜：牛尾炖土豆、墨鱼汁海鲜饭、牛油果色拉
-8. 塞维利亚 | Don Juan de Alemanes
+
+### 8. 塞维利亚 | Don Juan de Alemanes
  
 Don Juan de Alemanes
  
@@ -171,7 +153,8 @@ sangria
 Don Juan de Alemanes
 两个人共计58.7欧，其实点多了，我们后来把西班牙炸丸子打包回去了，价格还是实在的
 推荐菜：伊比利亚火腿、炖牛尾、松露炖饭
-9. 科尔多瓦 | Restaurante Arbequina
+
+### 9. 科尔多瓦 | Restaurante Arbequina
  
 Restaurante Arbequina
  
@@ -201,7 +184,8 @@ Restaurante Arbequina
 Restaurante Arbequina
 两人共计94欧，算是贵一点的价格了，不过毕竟米其林推荐，贵的是品质和服务
 推荐菜：科尔多瓦冷菜汤、炖牛肉
-10. 巴塞罗那 | Cervecería Catalana
+
+### 10. 巴塞罗那 | Cervecería Catalana
  
 Cerveceria Catalana
 Tripadvisor排名第415（共8,987个），卓越奖的tapas人气网红餐厅
@@ -235,7 +219,8 @@ Cerveceria Catalana
 Cerveceria Catalana
 三个大人一个小孩，共计消费84欧，吃了好多种菜，真的好吃又实惠，怪不得卓越奖
 推荐菜：鹅肝牛柳、蛏子、杏鲍菇鱿鱼、炸章鱼
-11. 巴塞罗那 | TAPA TAPA
+
+### 11. 巴塞罗那 | TAPA TAPA
  
 塔帕塔帕
  
@@ -270,7 +255,8 @@ Sangria Cava Petita 白色桑格利亚，之前介绍过西班牙卡瓦CAVA起�
 塔帕塔帕
 三个大人一个小孩，共计消费74欧，还包括了一个儿童餐
 推荐菜：小鸡腿、伊比利亚火腿
-12. 巴塞罗那 | Restaurante La Palmera
+
+### 12. 巴塞罗那 | Restaurante La Palmera
  
 Restaurante La Palmera
  
@@ -306,7 +292,8 @@ Restaurante La Palmera
 Restaurante La Palmera
 三个大人一个小孩，共计消费119.5欧，说实话，我们点多了，在家这家餐厅消费稍微高一些，所以价格就上去了
 推荐菜：JABUGO火腿、牛排，香煎带子和虾
-13. 巴塞罗那 | 四只猫 4 GATS
+
+### 13. 巴塞罗那 | 四只猫 4 GATS
  
 四只猫
  
@@ -325,7 +312,8 @@ Tripadvisor排名第1,762（共8,987个）
  
 四只猫
 餐厅现在有毕加索套餐，建议一早前去吃份早餐比较好，中午和晚上肯定人非常多，一早人少还可以拍餐厅，服务员非常热心，问《午夜巴塞罗那》的座位在哪里，尽管内室的餐厅没有开，还亲自带我去拍照，超贴心！
-14. 巴塞罗那 | La Fonda
+
+### 14. 巴塞罗那 | La Fonda
  
 巴塞罗那拉芳达餐厅
  
@@ -355,28 +343,15 @@ sangria
 巴塞罗那拉芳达餐厅
 三个大人一个小孩，共计消费79欧，满桌子大份海鲜，真的太实惠了！强烈推荐，记得要去！要预约
 推荐菜：青口、海鲜饭、墨汁烩饭
-15. 巴塞罗那 | 蜗牛餐厅 Los Caracoles
+
+### 15. 巴塞罗那 | 蜗牛餐厅 Los Caracoles
  
 Los Caracoles
 Tripadvisor排名第1,444（共8,987个）
 又是一家百年的中世纪餐馆，Caracoles是蜗牛的意思，所以也叫蜗牛餐厅，主推蜗牛、烤鸡和海鲜饭，要预约，有中文菜单
 蜗牛餐厅就在上面介绍的La Fonda隔壁，本来中午吃过了La Fonda，晚上就不想再来哥特区觅食了，结果实在是对蜗牛餐厅太好奇了，临时预约了晚餐，坐着地铁就来了，果然没有来错！
  
-Los Caracoles
- 
-Los Caracoles
- 
-Los Caracoles
- 
-Los Caracoles
- 
-Los Caracoles
- 
-Los Caracoles
 
-Los Caracoles
- 
-Los Caracoles
 进入餐厅后，七拐八拐被服务员带进最里面的位子，真是感觉穿过了一个博物馆才到座位，别有洞天！乌黑陈旧的木地板和楼梯踩着咯吱咯吱响，墙壁上除了照片、壁画还有许多中世纪的器具，更有火腿挂在座位的上方，红酒桶在座位边摆放，太厉害的老餐厅
  
 Los Caracoles
