@@ -46,6 +46,6 @@
 | 15   | 2019/08/25   (Sun) | Madrid->Dubai                          | Catedral   de Santa María la Real de la Almudena de Madrid , Royal Palace of Madrid ,   Plaza de Oriente , Plaza de España , Gran Vía , Plaza de Cibeles , Parque del   Retiro | Night   Flight, on Air                                       |
 | 16   | 2019/08/26   (Mon) | Dubai->Shanghai                        | Burj   Khalifa , Jumeira Public Beach , The Dubai Fountain   | One   day city tour                                          |
 
-[返回](https://keeperlu.github.io/spm.md）
+[返回](https://keeperlu.github.io/spm.html)
 
-[前往吃](https://keeperlu.github.io/food.html)
+[吃在旅途](https://keeperlu.github.io/food.html)
