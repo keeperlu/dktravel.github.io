@@ -6,7 +6,8 @@ tapas不但是一种食物的种类，更代表着一种生活方式。方便，
 
 最普遍的tapas有：橄榄Aceitunas、炸鱿鱼圈Calamares a la romana、土豆饼Tortilla de patata、火腿Jamón、蒜香虾Gambas al ajillo
  
-### 2. 火腿 Jamón（英文Ham）
+### 2. 火腿 Jamón
+
 火腿Jamón是后腿，而前腿Paletta有时也会被叫做火腿，但是味道却差了很多
 
 西班牙火腿从原材料上可分为塞拉诺火腿Jamón serrano和伊比利亚火腿Jamón ibérico，区别在于前者是普通的白毛猪后腿，而后者是黑毛猪后腿
