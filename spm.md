@@ -3,7 +3,7 @@
 
 ## 1. 所到的国家
 
-### [x]  西班牙王国 [点击查看详情](https://baike.baidu.com/item/%E8%A5%BF%E7%8F%AD%E7%89%99/148941)(https://en.wikipedia.org/wiki/Spain)
+### [x]  西班牙王国 [点击查看详情](https://baike.baidu.com/item/%E8%A5%BF%E7%8F%AD%E7%89%99/148941) [Wiki](https://en.wikipedia.org/wiki/Spain)
 ![spain_flag](http://www.all-flags-world.com/country-flag/Spain/flag-spain-XL.jpg)
 
 ### [x] 法兰西共和国 [点击查看详情](https://keeperlu.github.io/france.html)
