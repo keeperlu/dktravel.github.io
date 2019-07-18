@@ -29,7 +29,7 @@
 - [x] **摩洛哥** [Morocco](https://keeperlu.github.io/morocco.html)
 - [x] **葡萄牙** [Portugal](https://keeperlu.github.io/portugal.html)
 - [x] **阿拉伯联合酋长国**   [UAE](https://keeperlu.github.io/UAE.html)
-- [x] **图卢兹** [Toulouse](https://keeperlu.github.io/toulouse.html)
+- [x] **图卢兹** [Toulouse](https://keeperlu.github.io/france.html)
 
 
 ## 4. 美食 [Food](https://keeperlu.github.io/food.html)
