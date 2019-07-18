@@ -576,3 +576,51 @@ abra小船是平常的交通工具，最短的距离是从迪拜博物馆附近�
 
 > 乘车特别注意 #女性专用车厢#
 > 轻轨的第二节车厢为女性专用车厢，男士坚决不可踏入的禁地。如果你的同伴是女生你也要站在第三节车厢的门口与她相望。当然你的女伴愿意陪你站在第三节以后的任意一节就没人管了。
+
+
+### 谢赫扎耶德大清真寺
+1.官网：http://www.szgmc.gov.ae/en/Home
+
+2.开放时间：
+[Visiting hours](https://pic.qyer.com/album/user/2686/59/Q09dRB8OYU4/index/w1080)
+
+
+在这里有两个参观时间，一个是在外围参观的时间，还一个WALK-IN也就是进入到内部参观的时间。
+
+3.参观时最好掌握的几个相关词汇
+
+关于Architecture类：
+
+The Courtyard (Sahan)
+
+domes [dəʊmz] 圆顶
+
+Columns ['kɒləm] 柱
+
+Minaret [ˌmɪnəˈret] 清真寺旁由报告祈祷时刻的人使用的光塔
+
+
+
+关于清真寺内部类：
+
+Marble [ˈmɑ:bl] 大理石
+
+Lunar illumination [ˈlu:nə(r)][ɪˌlu:mɪˈneɪʃn] 夜间月光照明
+
+carpet [ˈkɑ:pɪt] 地毯
+
+chandelier [ˌʃændəˈlɪə(r)] 枝形吊灯
+
+pulpit (Menbar) [ˈpʊlpɪt] 教堂中的讲坛
+
+Reflective Pools 反思池
+
+
+
+4.穿衣指南
+
+女士进场需要遮头巾，头发也必须要裹进黑纱头巾里面，小女孩要求略松一点。
+
+
+
+其次从脚踝到手腕都需要包裹严实，不可以有裸露，如若服装不合格，安检旁有免费租赁清真袍的柜台。男士进场没有任何要求，短裤短袖凉拖都可以。
