@@ -21,13 +21,13 @@
 ### [x] 阿拉伯联合酋长国 [点击查看详情](https://keeperlu.github.io/UAE.html)
 ![UAE_flag](http://www.flagpictures.org/downloads/print/united-arab-emirates1.jpg)
 
-## 2. 行程 [请点击浏览旅行行程](https://keeperlu.github.io/itinerary.html)
+## 2. 行程 [Itinerary](https://keeperlu.github.io/itinerary.html)
 
-## 3. 城市和景点 [Cities](https://keeperlu.github.io/cities.html)
+## 3. 城市和景点 [Cities and Sights](https://keeperlu.github.io/cities.html)
 
-## 4. 美食 [food](https://keeperlu.github.io/food.html)
+## 4. 美食 [Food](https://keeperlu.github.io/food.html)
 
-## 5. 西班牙餐厅 [restaurant-esp](https://keeperlu.github.io/restaurants-esp.html)
+## 5. 西班牙餐厅 [Restaurants](https://keeperlu.github.io/restaurants-esp.html)
 
 ## 6. 购物 [Shopping](https://keeperlu.github.io/shopping.html)
 
