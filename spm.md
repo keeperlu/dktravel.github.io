@@ -4,11 +4,9 @@
 ## 1. 所到的国家
 
 ### [x]  西班牙王国 
-
 ![spain_flag](http://www.all-flags-world.com/country-flag/Spain/flag-spain-XL.jpg)
 
 ### [x] 法兰西共和国
-
 ![france_flag](http://www.all-flags-world.com/country-flag/France/flag-france-XL.jpg)
 
 ### [x] 安道尔公国
@@ -21,12 +19,11 @@
 ![portugal_flag](http://www.all-flags-world.com/country-flag/Portugal/flag-portugal-XL.jpg)
 
 ### [x] 阿拉伯联合酋长国
-![UAE_flag](http://www.all-flags-world.com/country/united-arab-emirates-flag-icon.png)
 ![UAE_flag](http://www.flagpictures.org/downloads/print/united-arab-emirates1.jpg)
 
-## 2. [请继续点击浏览旅行行程](https://keeperlu.github.io/itinerary.html)
+## 2. 行程 [请点击浏览旅行行程](https://keeperlu.github.io/itinerary.html)
 
 ## 3. 美食 [food](https://keeperlu.github.io/food.html)
 ## 4. 西班牙餐厅 [restaurant-esp](https://keeperlu.github.io/restaurant-esp.html)
-## 5. 城市
+## 5. 城市 [Cities]
 
