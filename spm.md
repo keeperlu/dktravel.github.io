@@ -25,5 +25,6 @@
 
 ## 3. 美食 [food](https://keeperlu.github.io/food.html)
 ## 4. 西班牙餐厅 [restaurant-esp](https://keeperlu.github.io/restaurants-esp.html)
-## 5. 城市 [Cities]
+## 5. 城市 [Cities](https://keeperlu.github.io/cities.html)
+## 6. 购物 [Shopping](https://keeperlu.github.io/shopping.html)
 
