@@ -22,8 +22,12 @@
 ![UAE_flag](http://www.flagpictures.org/downloads/print/united-arab-emirates1.jpg)
 
 ## 2. 行程 [请点击浏览旅行行程](https://keeperlu.github.io/itinerary.html)
-## 3. 城市 [Cities](https://keeperlu.github.io/cities.html)
+
+## 3. 城市和景点 [Cities](https://keeperlu.github.io/cities.html)
+
 ## 4. 美食 [food](https://keeperlu.github.io/food.html)
+
 ## 5. 西班牙餐厅 [restaurant-esp](https://keeperlu.github.io/restaurants-esp.html)
+
 ## 6. 购物 [Shopping](https://keeperlu.github.io/shopping.html)
 
