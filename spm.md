@@ -24,6 +24,6 @@
 ## 2. 行程 [请点击浏览旅行行程](https://keeperlu.github.io/itinerary.html)
 
 ## 3. 美食 [food](https://keeperlu.github.io/food.html)
-## 4. 西班牙餐厅 [restaurant-esp](https://keeperlu.github.io/restaurant-esp.html)
+## 4. 西班牙餐厅 [restaurant-esp](https://keeperlu.github.io/restaurants-esp.html)
 ## 5. 城市 [Cities]
 
