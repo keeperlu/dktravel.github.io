@@ -34,7 +34,7 @@
 
 ## 4. 美食 [Food](https://keeperlu.github.io/food.html)
 
-## 5. 西班牙餐厅 [Restaurants](https://keeperlu.github.io/restaurants-esp.html)
+## 5. 餐厅 [Restaurants](https://keeperlu.github.io/restaurants-esp.html)
 
 ## 6. 购物 [Shopping](https://keeperlu.github.io/shopping.html)
 
