@@ -142,7 +142,7 @@ https://bbs.qyer.com/thread-2702204-4.html#item-post-17087725
 
 ## 3. 摩洛哥美食
 
-[返回](https://keeperlu.github.io/food.html)                                                                       
+[返回](https://keeperlu.github.io/itinerary.html)                                                                       
 
 [吃货继续](https://keeperlu.github.io/restaurants-esp.html)
 
