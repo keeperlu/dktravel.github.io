@@ -29,6 +29,7 @@ tapas不但是一种食物的种类，更代表着一种生活方式。方便，
 西班牙火腿与中国火腿不同，中国火腿在制造过程中会用到烟或者火来加工猪肉，但西班牙火腿采用盐腌风干，并非熟肉。
 
 ![ham](https://pic.qyer.com/album/user/3221/71/QktXQx0GYU0/index/w1080)
+![Jamon](http://www.jamonesfelix.es/jamonesfelix/images/noticias/BANDEJA%20JAMON.JPG)
   
 ### 3. 海鲜饭 Pealla
 西班牙海鲜饭的发源地正是西班牙的瓦伦西亚，海鲜饭也被叫做大锅饭，Pealla是西语中锅的意思，因此得名
