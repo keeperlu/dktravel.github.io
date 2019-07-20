@@ -39,3 +39,5 @@
 
 ## 6. 购物 [Shopping](https://keeperlu.github.io/shopping.html)
 
+## 7. 注意事项 [Other](https://keeperlu.github.io/other.html
+
