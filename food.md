@@ -132,6 +132,12 @@ Sangria（桑格利亚汽酒）——源于西班牙的wine punch（即混合型
 
 **最后，泡面加西班牙火腿，相信我，你会爱到不行**
 
+https://bbs.qyer.com/thread-2610041-5.html#item-post-16552462
+
+https://bbs.qyer.com/thread-776232-1.html
+
+https://bbs.qyer.com/thread-2702204-4.html#item-post-17087725
+
 ## 2. 葡萄牙美食
 
 ## 3. 摩洛哥美食
