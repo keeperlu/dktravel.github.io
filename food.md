@@ -13,6 +13,7 @@ tapas不但是一种食物的种类，更代表着一种生活方式。方便，
 最普遍的tapas有：橄榄Aceitunas、炸鱿鱼圈Calamares a la romana、土豆饼Tortilla de patata、火腿Jamón、蒜香虾Gambas al ajillo
 
 ![tapas](https://pic.qyer.com/album/user/3221/70/QktXQx0HZEo/index/w1080)
+![tapas1](https://www.citylifemadrid.com/wp-content/uploads/TAPAS-ON-A-BUDGET.jpg)
 
  
 ### 2. 火腿 Jamón
