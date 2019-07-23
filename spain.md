@@ -249,3 +249,6 @@ Lonely Planet 2019 Best In Europe City
 注意：王宫内只有大厅可以拍照，正式进入后禁止拍摄
 
 > https://entradas.patrimonionacional.es/en-GB/venta-de-entradas
+
+### 塞拉伯博物馆MUSEO CERRALBO
+推荐大家一个景点，比马德里皇宫更值得看！而且可以拍照。塞拉伯博物馆MUSEO CERRALBO，里面奢华的令人发指！我们去参观的时候基本没有中国人。地址：Calle de Ventura RodrÃ­guez17(离西班牙广场一个路口就到了) 周一闭馆
