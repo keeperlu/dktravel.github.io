@@ -53,7 +53,7 @@ tapas不但是一种食物的种类，更代表着一种生活方式。方便，
 
 斗牛是西班牙人最热衷、也是最受欢迎的传统活动，当一头牛被斗牛士宰杀后，这头牛随即被卖作牛肉出售，任何部份都可以制成食品，其中牛尾和牛鞭更是美味佳肴。 在深受回教文化影响的安达卢西亚地区，牛肉更成为最受推崇的肉食之一，配合阿拉伯人所引进的多种新奇食材，以及传统的炖煮烹调方式，发展出用牛尾、蔬菜和红酒焖炖而成的菜焖牛尾。
 
-![Toro](https://pic.qyer.com/album/user/2124/61/Q0hXRhwGZks/index/w1080)
+![Toro](https://github.com/keeperlu/Wordpress/raw/master/pictures/toro.jpg)(https://pic.qyer.com/album/user/2124/61/Q0hXRhwGZks/index/w1080)
 
 ### 6. 鹰嘴豆炖肉 Cocido Madrileño
 鹰嘴豆炖肉也叫马德里炖肉，是马德里的名菜，先喝汤再吃肉是当地人的餐桌规则，将鹰嘴豆、酸菜、土豆与猪肉炖在一个小坛子中，经过多小时的熬制，成就马德里最传统的风味
@@ -82,7 +82,7 @@ Sangria可以分为白色桑格利亚和红色桑格利亚，红色桑格利亚�
  
 Sangria（桑格利亚汽酒）——源于西班牙的wine punch（即混合型微酒精饮品），算是西班牙的国酒，主要以葡萄酒做基酒，加于当季时令水果浸泡，再加入一些柠檬汽水或朗姆或白兰地等之类的酒勾兑而成。
 
-![sangrila](https://github.com/keeperlu/Wordpress/raw/master/pictures/sangrila.jpg)
+![sangrila](https://github.com/keeperlu/Wordpress/raw/master/pictures/Sangrila.jpg)
 
 ### 10. 西班牙油条 Churros
 西班牙油条都是以面粉制成的生面团制作，但亦有用马铃薯粉的。生面团透过花边挤筒挤出来，使油条带有花纹，然后再放进油锅里炸。炸好的油条，会再在上面洒上糖或肉桂粉，就成为一种美味的点心。通常西班牙油条都是需蘸上巧克力或咖啡来吃。
