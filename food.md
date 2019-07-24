@@ -65,7 +65,7 @@ tapas不但是一种食物的种类，更代表着一种生活方式。方便，
 
 传说当时有位美食家国王，为了品尝美食而不惜下诏征求前所未尝的美味料理，有了国王的诏书，全国厨师自当为了争夺这皇家荣耀无不竭尽全力，聚集全国大厨的美味料理大赛于是展开，最后由研发出香酥美味的烤乳猪大厨赢得当时西班牙的食神金牌。能做为烤乳猪的猪只必须经过精挑细选，重量3～4公斤，未满二星期的小猪仔。 一只烤乳猪约可让六个人饱餐一顿。 烤乳猪的事前准备必须先把小猪仔的正面沿着脊椎从头到尾，将其剖开，放入陶瓷锅加入一些月桂叶，再注满四公升的水送入烤炉，使用约120度的温度烤一小时的时间，进烤炉时，猪仔是背朝下腹向上，烤过约15分钟后，再翻转猪身直到最后。 拿出专用的叉子将整锅完熟的烤乳猪端出，并且轻刷碎蒜泥与猪油在乳猪身上。厨师会推出他们烤熟的招牌全乳猪，接着，拿出一个盘子来「切」乳猪，厨师俐落地用盘子边缘，横来竖去碴碴几声，就把整只烤乳猪分切成数份，最后手一抛，盘子从空中落地砸个粉碎，弄碎盘子表示欢迎前来用餐的客人。
 
-![asado](https://pic.qyer.com/album/user/2187/17/Q0hdRRsAYU4/index/w1080)
+![asado](https://github.com/keeperlu/Wordpress/raw/master/pictures/asado.jpg)(https://pic.qyer.com/album/user/2187/17/Q0hdRRsAYU4/index/w1080)
 
 
 ### 8. 西班牙炸丸子 Croquetas
@@ -73,7 +73,7 @@ tapas不但是一种食物的种类，更代表着一种生活方式。方便，
 
 吃起来感觉像是炸土豆球，但其实它是由奶酪包裹着火腿、鸡肉或香肠等入锅油炸而成，也算是tapas的小食之一
 
-![croq](https://pic.qyer.com/album/user/2124/61/Q0hXRhwGaUs/index/w1080)
+![croq](https://github.com/keeperlu/Wordpress/raw/master/pictures/Croquetas.jpg)
 
 ### 9. 桑格利亚汽酒 Sangria
 到西班牙喝什么，大家基本会脱口而出：桑格利亚！基本上所有餐厅都会供应这种水果酒，就像可乐一样的存在
@@ -82,7 +82,7 @@ Sangria可以分为白色桑格利亚和红色桑格利亚，红色桑格利亚�
  
 Sangria（桑格利亚汽酒）——源于西班牙的wine punch（即混合型微酒精饮品），算是西班牙的国酒，主要以葡萄酒做基酒，加于当季时令水果浸泡，再加入一些柠檬汽水或朗姆或白兰地等之类的酒勾兑而成。
 
-![sangira](https://pic.qyer.com/album/user/2124/61/Q0hXRhwGY00/index/w1080)
+![sangrila](https://github.com/keeperlu/Wordpress/raw/master/pictures/sangrila.jpg)
 
 ### 10. 西班牙油条 Churros
 西班牙油条都是以面粉制成的生面团制作，但亦有用马铃薯粉的。生面团透过花边挤筒挤出来，使油条带有花纹，然后再放进油锅里炸。炸好的油条，会再在上面洒上糖或肉桂粉，就成为一种美味的点心。通常西班牙油条都是需蘸上巧克力或咖啡来吃。
@@ -91,7 +91,7 @@ Sangria（桑格利亚汽酒）——源于西班牙的wine punch（即混合型
 在这里，油条分为大油条和小油条，口感不同，可根据喜好选择
 而油条的最佳伴侣就是浓浓的巧克力了，这里的巧克力十分十分的浓稠，无法当热巧喝下去，不信可以尝试一下哦~~
 
-![churros](https://pic.qyer.com/album/user/2124/60/Q0hXRhwHaUk/index/w1080)
+![churros](https://github.com/keeperlu/Wordpress/raw/master/pictures/Churros.jpg)
 
 
 ### 11. 西班牙冷汤 Gazpacho
