@@ -145,7 +145,7 @@ https://bbs.qyer.com/thread-2702204-4.html#item-post-17087725
 <h1 style="text-align:center">居中对齐 </h1>
 [返回](https://keeperlu.github.io/itinerary.html)                                                                       
 
-<center>[返回目录](https://keeperlu.github.io/spm.html)</center>
+<center> [返回目录](https://keeperlu.github.io/spm.html) </center>
 
 [吃货继续](https://keeperlu.github.io/restaurants-esp.html)
 
