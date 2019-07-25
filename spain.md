@@ -9,8 +9,14 @@
 > 任意地铁站内，在机器上或人工窗口直接购买，有些报亭、烟草店也有，很方便
 > 亲测机器上刷卡非常不好用，好几个机器都刷过去，只能现金购买
 
+### 圣家堂
 
-### 巴塞罗那波盖利亚市场   - 
+
+[Sagrada1](https://github.com/keeperlu/Wordpress/raw/master/pictures/Sagrada1.jpg)
+
+
+[Sagrada2](https://github.com/keeperlu/Wordpress/raw/master/pictures/Sagrada2.jpg)
+
 巴塞罗那最古老的农副产品市场，博盖利亚市场，吃喝买的天堂
 
 ### 米拉之家
