@@ -11,7 +11,9 @@ Airbus空客的组装工厂
 ![airbus0](http://www.manatour.fr/sites/manatour/files/logolva3d.jpg)
 
 >非欧盟游客参观空客的Tour需要至少提前2个工作日预约
+
 > 预约地址在这里 www.manatour.fr/en
+
 > 英语和法语Tour，英语每天一场，时长是90分钟，票价15欧。到了参观工厂后，以下一段为参观流程：
 
 
