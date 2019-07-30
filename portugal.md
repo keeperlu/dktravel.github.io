@@ -3,6 +3,17 @@
 # 葡萄牙
 
 
+里斯本（葡萄牙文Lisboa ）是葡萄牙首都、第一大城市、第一大港口，和罗马、旧金山一样，最初也是建立在7座山丘之上的“七丘之城”。
+
+”1755年全城三分之二毁于大地震，现在市区基本是重建的。里斯本秋季气温温和，约是8℃至23℃。冬天多雨且稍冷，温度约为0℃至18℃，一般约为10℃，至于降雪甚为罕见。葡萄牙最大的河流特茹河Tejo在城市南部自东向西留过，汇入大西洋。特茹河一塔霍河是一条国际性河流，流经西班牙和葡萄牙。在西班牙，该河叫塔霍（Tajo）河；在葡萄牙，该河叫特茹（Tejo）河，全河统称塔古斯（Tagus）河。”
+
+里斯本老城区主要分为西侧的上城区Bairro Alto、中间的下城区Baxia、东侧的Alfama区，地形是东西高，中间的Baxia区地势低。
+
+自由大道Av da Liberdade，是里斯本最主要的购物街，广场北起庞巴尔侯爵广场Praça do Marquês de Pomba，南端到罗西奥广场Praça do Rossio；
+
+奥古斯塔街Rua Augusta，是连接罗西奥广场和商业广场Comércio Plaza的步行街
+
+
 ##玩法推荐
 1. 吃蛋挞，吃蛋挞，吃蛋挞，重要的事情说三遍！还有葡萄牙大沙拉，超级好吃~
 
@@ -53,3 +64,51 @@
 
 
 我们早上大概十点左右过去的，人已经老多了。哈哈大部分摆摊的人都是老太太老头子，也有小姑娘。我们好像是逛跳蚤市场的唯一亚洲人，哈哈中国人比较喜欢逛商场。这里面还有很多黑胶唱片、双反相机、留声机、二手CD神马的，挺有意思的。胶卷机比国内淘宝便宜多了，巫婆说她在伦敦跳蚤市场淘到过一个不错的双反，巨便宜。为啥这次我没有看到。
+
+
+### 里斯本交通卡
+里斯本的交通设施种类有以下4种：
+
+1.Carris (bus, Tram & lift- Bica, Gloria, & Lavra funiculars等三条轨道缆车和Santa Justa电梯)
+http://www.carris.pt/en/home/
+2. Metro http://www.metrolisboa.pt/eng
+3. Transtejo/Soflusa （缆车/渡轮）
+http://www.tsuldotejo.pt/index.php?idioma=2
+
+4. CP （火车）
+单次票：
+
+上车前买 CARRIS/Metro Single ticket ：1.45E。
+
+上车后买 Bus是1.85E，Tram 是2.90E，缆车是3.7E（来回），Santa Justa电梯是5.15E（来回）
+交通充值卡（Pre-pay ） -- 购买地点： 地铁人工窗口或者自动售票机
+
+常见的是2种卡：
+
+地铁公司Metro发行之交通卡Viva Viagem Card 
+
+http://www.metrolisboa.pt/eng/customer-info/viva-viagem-card/
+
+交通公司Carris发行之交通卡7 Colinas Card 
+
+http://www.carris.pt/en/7-colinas-and-viva-viagem
+
+
+
+这两种充值卡用法一样，磁条纸卡，空卡0.5E， 有效期1年，然后储值：
+
+有3种储值模式：
+
+1. 巴士地铁单次票 CARRIS/Metro Combined Single ticket ：1.45E （Zone1 只限第一区）
+
+1小时内可转乘地铁及巴士，但不能地铁转地铁（不能出站再进站）) ，它是储值单程票到卡里面
+
+2. 24 H ticket ：6.3E （Carris/Metro network）不带缆车和火车
+
+3. .Zapping ： 储值金额到卡里面，使用时再从里面扣除金额, 余额是不能退还的
+
+地铁站的售票机都至少要储值5欧元以上，但到柜台可以储值任何金额
+
+三种储值模式不能同时存在于卡中，只能同时储值一种，等到用完时，才能储值另一种。
+
+不能使用在Aerobus 机场线
