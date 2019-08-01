@@ -52,6 +52,7 @@
 #### 10. 在巴洛奥尔多用餐
 里斯本热闹、繁华的夜生活同样有名。下午在基亚多 (Chiado) 优雅的街区购物之后，傍晚时分到圣•卡特琳娜 (Santa Catarina) 或圣佩德罗•阿尔坎塔拉 (São Pedro de Alcântara) 找一个观景台观景，并在巴洛奥尔多 (Bairro Alto) 停下来用餐。这里绝对是喜欢夜生活的人的乐园。
 
+![L2](https://www.visitportugal.com/sites/default/files/styles/destinos_galeria/public/mediateca/N23302.jpg?itok=jfsd1Ltf)
 
 > ### 里斯本一日游
 
