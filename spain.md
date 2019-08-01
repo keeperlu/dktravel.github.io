@@ -38,7 +38,7 @@ La Seo是萨拉戈萨的第一个基督教教堂，它在圣萨尔瓦多的赞�
 
 教堂主要进出口设在西面，在十八世纪下半叶，巴洛克风格的古典主义外墙取代了十四世纪的穆德哈尔风格，但遗迹仍然被保留下来。进入教堂后，其内部主祭坛，这是十五世纪欧洲哥特式的代表作，在唐·达尔穆·德·穆尔大主教的赞助下, 是雕塑家Pere Johan和Ans Piet d’Anso的代表作品，为许多祭坛效仿，比如皮拉尔圣母大教堂的主祭坛。
 
-![LaSeo](https://www.nihaozaragoza.cn/wp-content/uploads/2017/07/laSeo-e1501052494111.jpg)
+![LaSeo](https://www.nihaozaragoza.cn/wp-content/uploads/2019/07/4-min.jpg)
  
  
 #### 阿尔哈菲利亚宫
