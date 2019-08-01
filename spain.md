@@ -1,4 +1,4 @@
-## 萨拉戈萨
+# 萨拉戈萨
 
 ![Sara1](https://www.nihaozaragoza.cn/wp-content/uploads/2019/07/6-min.jpg)
 
@@ -48,7 +48,7 @@ La Seo是萨拉戈萨的第一个基督教教堂，它在圣萨尔瓦多的赞�
 ![Aljaferiap](https://www.nihaozaragoza.cn/wp-content/uploads/2017/09/Aljaferiap-e1508844412406.jpg)
 
 
-## 巴塞罗那
+# 巴塞罗那
  
 #### 交通
 > 巴塞罗那单次车票统一2.2欧，根据远近的划分，巴塞罗那分为1-6各区域，分别拥有不同的日票或次票，最推荐购买的就是：
@@ -60,10 +60,10 @@ La Seo是萨拉戈萨的第一个基督教教堂，它在圣萨尔瓦多的赞�
 
 ![Sag1](https://media.tacdn.com/media/attractions-splice-spp-674x446/06/75/c3/36.jpg)
 
-[Sagrada1](https://github.com/keeperlu/Wordpress/blob/master/pictures/Sagrada1.jpg)
+![Sagrada1](https://github.com/keeperlu/Wordpress/raw/master/pictures/Sagrada1.jpg)
 
 
-[Sagrada2](https://github.com/keeperlu/Wordpress/raw/master/pictures/Sagrada2.jpg)
+![Sagrada2](https://github.com/keeperlu/Wordpress/raw/master/pictures/Sagrada2.jpg)
 
 巴塞罗那最古老的农副产品市场，博盖利亚市场，吃喝买的天堂
 
