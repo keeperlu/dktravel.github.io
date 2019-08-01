@@ -111,7 +111,7 @@ Jordi Fauli在2015年10月宣布，施工完成了70％，并已进入最后阶�
 
 ![诞生](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/SagradaFamiliaWeihnachtsfassade.jpg/280px-SagradaFamiliaWeihnachtsfassade.jpg)
 
-![受难](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/SF_-_Passi%C3%B3_2018-m.jpg/1024px-SF_-_Passi%C3%B3_2018-m.jpg)
+![受难](https://zh.wikipedia.org/wiki/File:SF_-_Passi%C3%B3_2018-m.jpg)
 
 #### 内部
 圣家堂设计形状是一个拉丁十字架，有五个过道。中央的中殿拱顶高达45米（148英尺），而旁边的中殿的拱顶高达30米（98英尺）。后殿的地板上有间隙，可以看到下方的地下室。
