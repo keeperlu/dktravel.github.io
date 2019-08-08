@@ -9,11 +9,11 @@
 | ---- | ---- | ------------------------------------------------------------ | :----------------------------------------------------------- |
 | D1   | 8/11 | 下午到马德里机场,开车出发去萨拉戈萨Zaragoza                  | 马德里Madrid -(320km 3h10m)-> 萨拉戈萨Zaragoza               |
 | D2   | 8/12 | 萨拉戈萨Zaragoza出发去图卢兹Toulouse参观空客工厂,晚上住安道尔Andorra,行程600km       | 萨拉戈萨Zaragoza -(400km 4h50m)-> 图卢兹Toulouse -(200km 3h)-> 安道尔Andorra       |
-| D3   | 8/13 | 安道尔Andorra到巴塞罗那Barcelona,行程200km,住巴塞罗那      备选方案：巴塞罗那一天 | 安道尔Andorra -(200km 2h30m )-> 巴塞罗那Barcelona      备选方案：NA |
+| D3   | 8/13 | 安道尔Andorra到巴塞罗那Barcelona,行程200km,住巴塞罗那      | 安道尔Andorra -(200km 2h30m )-> 巴塞罗那Barcelona      |
 | D4   | 8/14 | 玩巴塞罗那Barcelona,傍晚出发去瓦伦西亚Valencia(海边高速路很好,很多shopping   mall) | 巴塞罗那Barcelona -(350km 3h30m)-> 瓦伦西亚Valencia          |
 | D5   | 8/15 | 瓦伦西亚Valencia出发去格拉纳达Granada,住格拉纳达             | 瓦伦西亚Valencia -(480km 5h)-> 格拉纳达Granada               |
 | D6   | 8/16 | 上午玩格拉纳达Granada,下午出发到直布罗陀Tarifa码头停车,乘晚班船去摩洛哥,住Tangier | 格拉纳达Granada -(280km 3h)-> Tarifa   (Gibraltar)  -(乘船)-> 丹吉尔Tangier(Morocco) |
-| D7   | 8/17 | 摩洛哥 --- 丹吉尔Tangier出发去卡萨布兰卡Casablanca,傍晚去首都拉巴特Rabat,行程420km      备选方案：丹吉尔Tangier直接去首都拉巴特Rabat,行程250km | 丹吉尔Tangier -(330km 3h30m)->卡萨布兰卡Casablanca -(90km 1h)->拉巴特Rabat      备选方案：丹吉尔Tangier -(250km 2h30m)->拉巴特Rabat |
+| D7   | 8/17 | 摩洛哥 --- 丹吉尔Tangier出发去卡萨布兰卡Casablanca,傍晚去首都拉巴特Rabat,行程420km      住拉巴特| 丹吉尔Tangier -(330km 3h30m)->卡萨布兰卡Casablanca -(90km 1h)->拉巴特Rabat      备选方案：丹吉尔Tangier -(250km 2h30m)->拉巴特Rabat |
 | D8   | 8/18 | 摩洛哥 --- 首都拉巴特Rabat,菲斯Fes,舍夫沙万Chefchaouen       | 拉巴特Rabat -(200km 2h20m)> 菲斯Fes -(200km 3h30m)-> 舍夫沙万Chefchaouen |
 | D9   | 8/19 | 摩洛哥 --- 舍夫沙万Chefchaouen,出发去玩丹吉尔Tangier         | 舍夫沙万Chefchaouen   -(110km 2h)->丹吉尔Tangier -(乘船)-> Tarifa (Gibraltar) |
 | D10  | 8/20 | 摩洛哥早上乘船回西班牙,  出发去塞维利亚Seville(多恩皇宫,西班牙广场) | Tarifa (Gibraltar)  -(200km 2h15m)->塞维利亚Seville          |
