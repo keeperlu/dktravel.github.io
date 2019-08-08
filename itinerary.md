@@ -8,7 +8,7 @@
 | D    | Date | 安   排                                                      | 自驾行程                                                     |
 | ---- | ---- | ------------------------------------------------------------ | :----------------------------------------------------------- |
 | D1   | 8/11 | 下午到马德里机场,开车出发去萨拉戈萨Zaragoza                  | 马德里Madrid -(320km 3h10m)-> 萨拉戈萨Zaragoza               |
-| D2   | 8/12 | 萨拉戈萨Zaragoza出发去图卢兹Toulouse参观空客工厂,晚上住安道尔Andorra,行程600km      备选方案：萨拉戈萨Zaragoza直接去巴塞罗那, 住巴塞罗那,行程300km | 萨拉戈萨Zaragoza -(400km 4h50m)-> 图卢兹Toulouse -(200km 3h)-> 安道尔Andorra      备选方案：萨拉戈萨Zaragoza-(310km   3h)->巴塞罗那Barcelona |
+| D2   | 8/12 | 萨拉戈萨Zaragoza出发去图卢兹Toulouse参观空客工厂,晚上住安道尔Andorra,行程600km       | 萨拉戈萨Zaragoza -(400km 4h50m)-> 图卢兹Toulouse -(200km 3h)-> 安道尔Andorra       |
 | D3   | 8/13 | 安道尔Andorra到巴塞罗那Barcelona,行程200km,住巴塞罗那      备选方案：巴塞罗那一天 | 安道尔Andorra -(200km 2h30m )-> 巴塞罗那Barcelona      备选方案：NA |
 | D4   | 8/14 | 玩巴塞罗那Barcelona,傍晚出发去瓦伦西亚Valencia(海边高速路很好,很多shopping   mall) | 巴塞罗那Barcelona -(350km 3h30m)-> 瓦伦西亚Valencia          |
 | D5   | 8/15 | 瓦伦西亚Valencia出发去格拉纳达Granada,住格拉纳达             | 瓦伦西亚Valencia -(480km 5h)-> 格拉纳达Granada               |
