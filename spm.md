@@ -3,6 +3,8 @@
 
 ## 1. 所到的国家
 
+点击 [baidu] [Wiki] [MFA] 获得详情
+
 ### 西班牙王国 Kingdom of Spain  [Baidu](https://baike.baidu.com/item/%E8%A5%BF%E7%8F%AD%E7%89%99/148941) [Wiki](https://en.wikipedia.org/wiki/Spain) [MFA](http://cs.mfa.gov.cn/zggmcg/ljmdd/oz_652287/xby_654955/)
 ![spain_flag](http://www.all-flags-world.com/country-flag/Spain/flag-spain-XL.jpg)
 
