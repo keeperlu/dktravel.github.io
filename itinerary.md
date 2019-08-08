@@ -13,14 +13,14 @@
 | D4   | 8/14 | 玩巴塞罗那Barcelona,傍晚出发去瓦伦西亚Valencia(海边高速路很好,很多shopping   mall) | 巴塞罗那Barcelona -(350km 3h30m)-> 瓦伦西亚Valencia          |
 | D5   | 8/15 | 瓦伦西亚Valencia出发去格拉纳达Granada,住格拉纳达             | 瓦伦西亚Valencia -(480km 5h)-> 格拉纳达Granada               |
 | D6   | 8/16 | 上午玩格拉纳达Granada,下午出发到直布罗陀Tarifa码头停车,乘晚班船去摩洛哥,住Tangier | 格拉纳达Granada -(280km 3h)-> Tarifa   (Gibraltar)  -(乘船)-> 丹吉尔Tangier(Morocco) |
-| D7   | 8/17 | 摩洛哥 --- 丹吉尔Tangier出发去卡萨布兰卡Casablanca,傍晚去首都拉巴特Rabat,行程420km      住拉巴特| 丹吉尔Tangier -(330km 3h30m)->卡萨布兰卡Casablanca -(90km 1h)->拉巴特Rabat      备选方案：丹吉尔Tangier -(250km 2h30m)->拉巴特Rabat |
+| D7   | 8/17 | 摩洛哥 --- 丹吉尔Tangier出发去卡萨布兰卡Casablanca,傍晚去首都拉巴特Rabat,行程420km      住拉巴特| 丹吉尔Tangier -(330km 3h30m)->卡萨布兰卡Casablanca -(90km 1h)->拉巴特Rabat     |
 | D8   | 8/18 | 摩洛哥 --- 首都拉巴特Rabat,菲斯Fes,舍夫沙万Chefchaouen       | 拉巴特Rabat -(200km 2h20m)> 菲斯Fes -(200km 3h30m)-> 舍夫沙万Chefchaouen |
 | D9   | 8/19 | 摩洛哥 --- 舍夫沙万Chefchaouen,出发去玩丹吉尔Tangier         | 舍夫沙万Chefchaouen   -(110km 2h)->丹吉尔Tangier -(乘船)-> Tarifa (Gibraltar) |
 | D10  | 8/20 | 摩洛哥早上乘船回西班牙,  出发去塞维利亚Seville(多恩皇宫,西班牙广场) | Tarifa (Gibraltar)  -(200km 2h15m)->塞维利亚Seville          |
 | D11  | 8/21 | 塞维利亚Seville出发去里斯本Lisbon                            | 塞维利亚Seville -(460km 4h30m)-> 里斯本Lisbon                |
 | D12  | 8/22 | 里斯本Lisbon 一天                                            | NA                                                           |
-| D13  | 8/23 | 里斯本Lisbon出发去塞哥维亚Segovia(罗马时期大渡槽),然后去老首都托莱多Toledo      备选方案：里斯本Lisbon直接去马德里Madrid,住马德里 | 里斯本Lisbon -(620km 6h20m)->塞哥维亚Segovia -(160km 1h40m)-> 托莱多Toledo      备选方案：里斯本Lisbon   -(620km 6h20m)-> 马德里Madrid |
-| D14  | 8/24 | 托莱多Toledo玩半天，中午去马德里Madrid      备选方案：马德里一天 | 托莱多Toledo -(70km 1h)-> 马德里Madrid      备选方案：NA     |
+| D13  | 8/23 | 里斯本Lisbon出发去塞哥维亚Segovia(罗马时期大渡槽),然后去老首都托莱多Toledo      备选方案：里斯本Lisbon直接去马德里Madrid,住马德里 | 里斯本Lisbon -(620km 6h20m)->塞哥维亚Segovia -(160km 1h40m)-> 托莱多Toledo      |
+| D14  | 8/24 | 托莱多Toledo玩半天，中午去马德里Madrid     | 托莱多Toledo -(70km 1h)-> 马德里Madrid     |
 | D15  | 8/25 | 玩马德里Madrid一天，晚上18:00到机场，22:00飞机               | Madrid酒店-(15km   30m)->机场                                |
 | D16  | 8/26 | 早上6:30到迪拜,玩一天,晚上(第二天凌晨)飞机回上海             |                                                              |
 | D17  | 8/27 | 下午15:00到上海                                              |                                                              |
