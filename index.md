@@ -4,7 +4,7 @@
 
 [\(E = mc^2\)](http://www.alberteinsteinsite.com/physics/einsteinphysics.html)
 
-\[E = mc^2]\(http://www.alberteinsteinsite.com/physics/einsteinphysics.html)
+[E=MC<sup>2</sup>](http://www.alberteinsteinsite.com/physics/einsteinphysics.html)
 
 E=MC<sup>2</sup>
 
