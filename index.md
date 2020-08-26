@@ -2,7 +2,7 @@
 > 17 Jul 2019上线
 
 
-[E=MC<sup>2</sup>](http://www.alberteinsteinsite.com/physics/einsteinphysics.html)
+ [E=MC<sup>2</sup>](http://www.alberteinsteinsite.com/physics/einsteinphysics.html)
 
 
 ## [Tech Doc](https://keeperlu.github.io/TechDoc/list.html)
