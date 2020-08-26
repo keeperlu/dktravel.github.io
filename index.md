@@ -5,7 +5,7 @@
  [E=MC<sup>2</sup>](http://www.alberteinsteinsite.com/physics/einsteinphysics.html)
 
 
-<span style="font-family:Papyrus; font-size:10em;">E=MC<sup>2</sup></span>
+<span style="font-family:Papyrus; font-size:40px;">E=MC<sup>2</sup></span>
 
 ## [Tech Doc](https://keeperlu.github.io/TechDoc/list.html)
 
