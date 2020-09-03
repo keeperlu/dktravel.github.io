@@ -6,30 +6,30 @@ These instructions assume that the reader is familiar with opening, editing and 
 
 Most Linux systems have a few commands that can be used to find out what the current network configuration is, for example:
 
-ifconfig -a
+### ifconfig -a
 You can also use variations of the ip command:
 
-ip addr
+### ip addr
 Basic network configuration and hostname on a Ubuntu system are stored in several files which must be edited to create a working configuration:
 
-/etc/network/interfaces describes the network interfaces
-/etc/hostname configures the nameserver credentials
-/etc/hosts resolves IP addresses to hostnames
+### /etc/network/interfaces describes the network interfaces
+### /etc/hostname configures the nameserver credentials
+### /etc/hosts resolves IP addresses to hostnames
 Once the new configuration is saved the interface must be restarted.
 
 Changing Network Configuration
 Below is an example of a static IP configuration on a system with only one Ethernet interface (eth0) and 10.0.0.41/24 for the IP address. Opening the /etc/network/interfaces file will produce:
 
-# This file describes the network interfaces available on your system
-# and how to activate them. For more information, see interfaces(5).
+ This file describes the network interfaces available on your system
+ and how to activate them. For more information, see interfaces(5).
 
-# The loopback network interface
+ The loopback network interface
 auto lo
 iface lo inet loopback
-
-# The primary network interface
-auto eth0
-iface eth0 inet static
+## 
+ The primary network interface
+## auto eth0
+## iface eth0 inet static
     address 10.0.0.41
     netmask 255.255.255.0
     network 10.0.0.0
